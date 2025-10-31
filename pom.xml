@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>mx.gob.imss.dpes</groupId>
+        <artifactId>mpcle</artifactId>
+        <version>1.0</version>
+    </parent>
+    <groupId>mx.gob.imss.dpes</groupId>
+    <artifactId>documentoBack</artifactId>
+    <version>1.0</version>
+    <packaging>war</packaging>
+    <name>documentoBack</name>
+    <properties>
+        <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+    
+    <dependencies>        
+        <dependency>
+            <groupId>mx.gob.imss.dpes</groupId>
+            <artifactId>baseBack</artifactId>
+            <version>1.0</version>
+            <classifier>classes</classifier>
+        </dependency>
+    </dependencies>
+
+</project>
