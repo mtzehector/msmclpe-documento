@@ -1,0 +1,11 @@
+{
+  "id": 456,
+  "altaRegistro": "27/11/2019 01:54:14",
+  "bajaRegistro": null,
+  "actualizacionRegistro": null,
+  "cveSolicitud": 162,
+  "tipoDocumento": 1,
+  "refSello": "{\"sello\":\"yFquF8R8YLR3nqfu11ExDuSXHjdLGxJZ8GURKPGd3IaeLSgbZ/9F8z6P6aBWLQ1JYPca/2qfXaxaTtgdmnUDcn1MnjdnnmgUmccAfY30SuQACDIV5i/7bD1Xe1sKWUXRXE9jpooqnkoXNFoyd2rnDOApBHtwUvLUrzJW+wNjeClEVXvNzqj/aRTIxR5dPjX9s2ZO+I4P5UXKODZRJ8dB645AUPUvvUD3tvZWhucWGoKjHVnK6YoCrZTLxSAEohKivS/ydrWav+3m1mNj/DMNKFjf3mUR4kCGABYxCnU/v1148MKjbGESosbjmNy8bjU3O7Lld81ICM4dkX7xlDL6Hw==\",\"idSello\":\"0e479f35-8743-4307-9f57-8d4c57c6e0ca\",\"noSerieSello\":\"00000000000000000001\"}",
+  "refDocumento": "{\"nss\":\"1098234750\",\"curp\":\"PEGJ560626HDFEON09\",\"nombre\":\"Juan\",\"primerAp\":\"Pérez\",\"segundoAp\":\"González\",\"delegacion\":\"Benito Juárez\",\"telefono\":\"1122334455\",\"email\":\"some@mail.com\",\"tipoCredito\":\"Nuevo\",\"tipoPension\":\"Pensión\",\"tipoTrabajador\":\"Pensionado\",\"nombreComercialEF\":\"Banca Mifel\",\"razonSocialEF\":\"Banca Mifel\",\"telefonoEF\":\"5544332211\",\"paginaWebEF\":\"www.mifel.com\",\"tasaAnual\":\"10%\",\"cat\":\"37%\",\"montoSolicitado\":\"25000\",\"importeDescNomina\":\"150\",\"totalDescAplicar\":\"1500\",\"plazo\":\"12\",\"totalCreditoPagarInteres\":\"30000\",\"nominaPrimerDesc\":\"Noviembre\",\"fecVigenciaFolio\":\"Enero\",\"sello\":\"SelloDigitalGoesHere\",\"sello\":\"wZag3dQDBElt9pOf/ndovOM5qWoQurTC6fJYvYzgNBfa3ggUucbDrYtEQ5obWOTTrlgUgEOtDIeEIphrHM7QCYngRGtVDIQNPW3E/Se0dsbwaTIz0xpoOnSypWu4wwKV8l6KGEZTLBOn7qvqH53yiSTheZEyMC8wvOTg/D1pnBoSn3NcbDi3IkRt+evlBNViHvHQFuWapVmQBZkUCw9HPrbSy78PToC9D1TlnatmSRGRo+Do02tdGz50LakfGUj8jEPpRQE57SBJAIJhXyQHRmxsfzg9SdyROcrBOsDXoQjNC6WlV9SDXSI7tHrI125uHILje57Hs+4zzgECiynddA==\",\"noSerie\":\"00000000000000000001\",\"idSello\":\"d37000b6-8866-4a7e-9619-7476397f05eb\"}",
+  "refDocBoveda": null
+}
